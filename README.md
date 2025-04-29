@@ -1,12 +1,20 @@
 Air Quality Index Dashboard for Indian Regions
+---
 
 Overview
+---
 Air quality plays a crucial role in the health and well-being of communities and ecosystems. Monitoring air quality is essential to understand the concentration of pollutants that impact health, visibility, climate, and the environment. Poor air quality, especially due to high levels of particulate matter (PM2.5, PM10) and gases like SO₂, NO₂, and CO, has been associated with respiratory diseases, cardiovascular problems, and adverse environmental effects. This dashboard provides an interactive visualization of air quality data across different regions in India, helping users understand and analyze the pollution levels in their area.
 
+---
+
 Project Description
+---
 This project is a Power BI dashboard that displays the Air Quality Index (AQI) data for various regions in India. The data includes several chemical and particulate components that are significant determinants of air quality. By visualizing this data, users can observe regional AQI trends, identify pollution hotspots, and make informed decisions based on the historical and real-time data presented.
 
+---
+
 Data Analyzed
+---
 The data analyzed in this dashboard includes several key air quality components, such as:
 
 PM2.5: Particulate matter smaller than 2.5 microns, which can penetrate deeply into the lungs and affect respiratory and cardiovascular health.
